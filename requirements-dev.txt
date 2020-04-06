@@ -11,6 +11,7 @@ attrs==19.3.0
 pluggy==0.13.1
 pyparsing==2.4.6
 pytest==5.4.1
+pytest-mock==3.0.0
 
 # Coverage
 coverage==5.0.4
