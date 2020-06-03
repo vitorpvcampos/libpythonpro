@@ -14,9 +14,9 @@ Suportada versão 3 do Python.
 
 Para instalar:
 ```console
-python3 -m venv .venv
-source .venv/bin/activate
-pip install -r requirements-dev.txt
+pip install pipenv
+pipenv install -d
+pipenv shell
 ```
 Para conferir qualidade de código:
 ````console
