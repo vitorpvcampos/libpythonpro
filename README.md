@@ -15,7 +15,7 @@ Suportada versão 3 do Python.
 Para instalar:
 ```console
 pip install pipenv
-pipenv install -d
+pipenv sync
 pipenv shell
 ```
 Para conferir qualidade de código:
